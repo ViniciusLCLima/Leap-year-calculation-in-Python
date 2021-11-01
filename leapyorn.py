@@ -6,5 +6,5 @@ while calculate=="Y":
     print("It's Leap")
   else:
     print("Not leap.")
-  calcular=input("Want use again?(Y/N)")
+  calculate=input("Want use again?(Y/N)")
 print("End")
